@@ -1,0 +1,43 @@
+Haifa <- Akka <- Nazareth <- Jenin <- 106km
+Haifa <- Tulkarem <- Jenin <- 10km
+Jericho <- Tubas <- Nablus <- 73km
+Jericho <- Nablus <- 5km
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
